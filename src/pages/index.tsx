@@ -34,7 +34,7 @@ const Home: NextPage = () => {
 					marginTop={ 6 }
 					marginBottom={ 6 }
 				>
-					With three years of experience, I'm focused in creating beautiful and accessible interfaces. I am passionate about web development and design and am always willing to push myself to create amazing projects. I'm 23 and I have a degree in Graphic Expression, which taught me the importance of design, accessibility and usability, all aspects I use on the interfaces I make. I love technology and am always trying to learn and build new things. On my spare time I love reading mystery novels and doing crochet.
+					With three years of experience, I am focused in creating beautiful and accessible interfaces. I am passionate about web development and design and am always willing to push myself to create amazing projects. I am 24 and I have a degree in Graphic Expression, which taught me the importance of design, accessibility and usability, all aspects I use on the interfaces I make. I love technology and am always trying to learn and build new things. On my spare time I love reading mystery novels and doing crochet.
 				</Text>
 				<Text fontSize='lg'>React.js, Next.js, Typescript, GraphQL, Cypress</Text>
 
