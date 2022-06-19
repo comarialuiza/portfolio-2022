@@ -13,23 +13,22 @@ const Home: NextPage = () => {
 				<meta name="viewport" content="initial-scale=1.0, width=device-width" />
 			</Head>
 			
-			<Center flexDirection='column' minH='100vh' bg='brand.900'>
+			<Center flexDirection='column' minH='100vh' bg='brand.900' p={ 8 }>
 				<Container
 					centerContent={ true }
 					marginBottom={ 8 }
 					bg='brand.400'
 					color='brand.100'
-					p={ 8 }
-					paddingTop={ 400 }
 					borderTopLeftRadius={ 300 }
 					borderTopRightRadius={ 300 }
-					pos='relative'
+					p={ 8 }
+					textAlign='center'
 				>
-					<Container pos='absolute' top='20px' left='50%' transform='translate(-50%)'>
+					<Container>
 						<Image
 							src={ logo }
-							height='600px'
-							width='600px'
+							height='1446px'
+							width='2048px'
 							alt='An illustration of flowers and stars'
 						/>
 					</Container>
@@ -37,7 +36,6 @@ const Home: NextPage = () => {
 					<Text fontSize='2xl'>Front End Developer</Text>
 					<Text
 						fontSize='md'
-						textAlign='center'
 						marginTop={ 6 }
 						marginBottom={ 6 }
 					>
